@@ -17,8 +17,8 @@ I am a web and mobile app development expert with years of experience. Dedicated
 ## GitHub Stats
 <div align="center">
     <a href="https://github.com/hushanthaK">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=hushanthaK&theme=blueberry&show_icons=true&hide_border=true&count_private=false" />
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hushanthaK&theme=blueberry&hide_border=true" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=hushanthaK&theme=blueberry&show_icons=true&hide_border=true&count_private=false" />
+      <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=hushanthaK&theme=blueberry&hide_border=true" />
       <br/>
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hushanthaK&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
     </a>
