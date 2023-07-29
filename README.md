@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello Everyone, Welcome to my profile.
 
-<!--
-**hushanthaK/hushanthaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a web and mobile app development expert with years of experience. Dedicated to providing seamless user experiences and maximizing performance across platforms. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<li>Website Development</li>
+<ul>Mobile App Development</li>
+<li>Cloud Computing</li>
+<li>Performance Optimization</li>
+<li>SEO Optimization</li></ul>
+
+## Hobbies
+
+## ⚙️ GitHub Stats
